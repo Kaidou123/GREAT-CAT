@@ -1,4 +1,4 @@
-# GREAT-CAT
+#DRAGON
 /**
  *Submitted for verification at BscScan.com on 2021-11-15
 */
@@ -9,11 +9,11 @@ pragma solidity 0.8.4;
 
 
 /**
- * @title dev GREAT CAT
+ * @title dev DRAGON
 
 contract real GREAT CAT BEP20{
-    string public name = "GREATCAT";
-    string public symbol = "GRC";
+    string public name = "DRAGON";
+    string public symbol = "DRAGON";
     uint256 public totalSupply = 100000000000000000000000000000; // 100 billion tokens
     uint8 public decimals = 18;
     
