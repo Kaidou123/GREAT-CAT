@@ -11,12 +11,8 @@ pragma solidity 0.8.4;
 /**
  * @title GREAT CAT
  * @dev Very simple BEP20 Token example, where all tokens are pre-assigned to the creator.
- * Note they can later distribute these tokens as they wish using `transfer` and other
- * `BEP20` functions.
- * USE IT ONLY FOR LEARNING PURPOSES. SHOULD BE MODIFIED FOR PRODUCTION
- */
  
-contract SampleBEP20Token {
+contract real GREAT CAT BEP20{
     string public name = "GREATCAT";
     string public symbol = "GRC";
     uint256 public totalSupply = 100000000000000000000000000000; // 100 billion tokens
