@@ -9,9 +9,8 @@ pragma solidity 0.8.4;
 
 
 /**
- * @title GREAT CAT
- * @dev Very simple BEP20 Token example, where all tokens are pre-assigned to the creator.
- 
+ * @title dev GREAT CAT
+
 contract real GREAT CAT BEP20{
     string public name = "GREATCAT";
     string public symbol = "GRC";
