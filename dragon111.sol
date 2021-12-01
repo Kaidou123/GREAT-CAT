@@ -11,7 +11,7 @@ pragma solidity 0.8.4;
 /**
  * @title dev DRAGON
 
-contract real GREAT CAT BEP20{
+contract real DRAGON BEP20{
     string public name = "DRAGON";
     string public symbol = "DRAGON";
     uint256 public totalSupply = 100000000000000000000000000000; // 100 billion tokens
